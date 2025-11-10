@@ -1,0 +1,46 @@
+body {
+  font-weight: bold;
+}
+
+.icon {
+  width: 200px;
+  height: 200px;
+}
+
+.text {
+  text-align: center;
+}
+
+.sample {
+  margin: 16px auto;
+  text-align: center;
+  display: block;
+}
+
+.sample .text1 {
+  text-align: left;
+  display: inline-block;
+}
+
+.skill_inner {
+  width: 60%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.skill {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+img {
+  width: auto;
+  height: 100px;
+  padding: 0 10px;
+  margin-left: 10px;
+}
+
+.txt {
+  margin-left: 20px;
+}
